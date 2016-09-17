@@ -13,4 +13,3 @@ node('docker') {
   bats/bin/bats tests
   """
 }
-
